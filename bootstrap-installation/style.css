@@ -1,0 +1,99 @@
+#title {
+  background-color: #ff4c68;
+}
+
+.heading-h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: aliceblue;
+}
+
+h3{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 1.5rem;
+}
+
+p {
+  color: #8f8f8f;
+}
+h2{
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+}
+
+.check-feature{
+  text-align: center;
+  padding:5%;
+  
+}
+.container {
+  padding-top: 3%;
+
+
+}
+
+.image-size1 {
+  height: 47rem;
+  width: 30rem;
+  transform: rotate(25deg);
+}
+ /* navbar styling */
+
+.navbar-brand{
+  font-family: 'ubuntu';
+  padding-bottom: 4.5rem !important;
+  font-weight: 1.5;
+
+}
+
+.nav-item{
+  padding-left: 18px;
+  padding-bottom:4.5rem;
+  
+}
+.download-button{
+  margin:5% 3% 5% 0;
+}
+/* feature styling */
+
+#feature{
+  padding: 7% 15%;
+}
+
+.fas{
+  color:#ef8172 ;
+  margin-bottom: 1rem;
+}
+.fas:hover{
+  color: #ff4c68;
+}
+
+/* testinomial styling */
+#testinomial{
+  padding: 7% 15%;
+  text-align: center;
+  background-color: #ef8172;
+  color: #fff;
+  
+}
+.testinomial-image{
+  width: 10%;
+  border-radius: 100%;
+  margin-top: 1rem;
+
+}
+#press{
+  text-align: center;
+  background-color: #ef8172;
+  color: #ef8172;
+}
+.press-image{
+  width: 15%;
+  padding-bottom: 2rem;
+  margin:20px 20px 50px;
+}
+#pricing{
+  text-align: center;
+}
